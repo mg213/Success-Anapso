@@ -1,0 +1,53 @@
+h1, h2, h3, h4, h5, h6, p, input, a
+{
+  font-family:raleway;
+}
+
+.title
+{
+  color:white;
+  border:solid white;
+  padding:35px 25px;
+  margin:10px;
+  border-radius:30px;
+  background-image:url("https://www.xmple.com/wallpaper/streaks-orange-red-yellow-lines-stripes-1920x1080-c3-e95f3f-e9923f-e9c53f-l3-142-284-568-a-60-f-1.svg");
+  
+  margin:auto;
+}
+
+.anapso
+{
+  
+}
+
+.nav
+{
+  padding:10px;
+  border-color:white;
+  border-radius:10px;
+  display:block;
+  width:900px;
+}
+
+
+A:link,
+a:visited {
+  background-color:white;
+  border-radius:10px;
+  color: black;
+  padding: 14px 25px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+}
+
+A:hover,
+a:active{
+  background-color:transparent;
+  color:white;
+}
+
+#Intro
+{
+  rotation: 75deg;
+}
